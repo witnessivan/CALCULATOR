@@ -21,5 +21,5 @@ double multiplyy(double c, double n) {
 	return c * n;
 }
 double stray(double a, double b, double c, double d) {
-	return a * b + c + d;
+	return a * b + c * d;
 }
